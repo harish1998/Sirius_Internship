@@ -1,0 +1,336 @@
+[
+  {
+    "id": "c5e64c87-1643-40f9-b079-10f7cad57042",
+    "data": [
+      {
+        "text": "How cool is it now in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mysore",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b01f920-bc27-4666-bcef-0afd02918323",
+    "data": [
+      {
+        "text": "Shall you provide how hot it is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangalore",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "835933bc-197b-4ba1-bea9-6dade5606425",
+    "data": [
+      {
+        "text": "How cool it is now in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dehradun",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d366d18-8b31-4321-aaf5-95ae796fb922",
+    "data": [
+      {
+        "text": "I need weather update in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rajasthan",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "473f849e-bcb1-4565-ba99-18b2d7855872",
+    "data": [
+      {
+        "text": "what is the current weather at ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ac779bc-35fc-4892-a8a8-405f34b2db9a",
+    "data": [
+      {
+        "text": "Will it rain in ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington DC",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6cdd51a-1786-4554-941e-3fbe5cf5e3cd",
+    "data": [
+      {
+        "text": "Could you be able to give weather info in ",
+        "userDefined": false
+      },
+      {
+        "text": "Athens",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98b4c18e-7085-4bc2-82d7-db0856f244ba",
+    "data": [
+      {
+        "text": "Can you provide weather update in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bucharest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61b4bf97-0515-45e7-b092-005f0286cbbb",
+    "data": [
+      {
+        "text": "Weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Warsaw",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " plz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd03d300-bc2b-42c1-aeac-5ae60c45187e",
+    "data": [
+      {
+        "text": "How hot it is now in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "946264ce-7a32-4972-844d-3b6f76f03522",
+    "data": [
+      {
+        "text": "I require the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24ed39ea-4455-477f-a706-4ad1e7218199",
+    "data": [
+      {
+        "text": "Weather info in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "415bec91-016b-43a5-a63f-fedc367b172c",
+    "data": [
+      {
+        "text": "May I please know what the weather is like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f328e619-d712-4421-8bb8-d19c3d663672",
+    "data": [
+      {
+        "text": "Please give me the weather update in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Jose",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d62237ed-09be-466a-8b00-e981037a0e88",
+    "data": [
+      {
+        "text": "Do you know how the weather is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7cf97c9-fadf-4be7-9bce-ac44733e3241",
+    "data": [
+      {
+        "text": "Temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hyderabad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1208dc4a-d7f8-4d0e-afc5-ab8370bfb75c",
+    "data": [
+      {
+        "text": "Weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dff2abf5-9aae-4b57-89d0-c5d782ec03a5",
+    "data": [
+      {
+        "text": "What\u0027s the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Non Veg",
+    "synonyms": [
+      "Non Veg",
+      "Non Vegetable",
+      "Non Veggie"
+    ]
+  },
+  {
+    "value": "Veg",
+    "synonyms": [
+      "Veg",
+      "Vegetable",
+      "Veggie"
+    ]
+  }
+]

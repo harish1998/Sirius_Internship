@@ -1,0 +1,9 @@
+{
+  "id": "909361ca-3afb-41da-a4a7-97c8136709bc",
+  "name": "politics",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

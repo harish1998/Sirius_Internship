@@ -1,0 +1,33 @@
+{
+  "id": "17b7c4ed-8274-4499-bc7c-5897ee554c1b",
+  "parentId": "b111c3d3-2e88-446d-b21f-83eca0a7a354",
+  "rootParentId": "b111c3d3-2e88-446d-b21f-83eca0a7a354",
+  "name": "CorrectIntent - no",
+  "auto": true,
+  "contexts": [
+    "CorrectIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CorrectIntent.CorrectIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fine...we\u0027ll save it for later."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

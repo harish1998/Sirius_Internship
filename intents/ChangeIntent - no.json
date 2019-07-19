@@ -1,0 +1,33 @@
+{
+  "id": "9cdd1ad6-fd5c-4696-9cad-4003d9f4479e",
+  "parentId": "8963b4c6-539c-4946-9eef-995b10873a48",
+  "rootParentId": "8963b4c6-539c-4946-9eef-995b10873a48",
+  "name": "ChangeIntent - no",
+  "auto": true,
+  "contexts": [
+    "ChangeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ChangeIntent.ChangeIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s fine. Forgotten :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

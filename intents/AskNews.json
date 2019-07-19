@@ -1,0 +1,75 @@
+{
+  "id": "b6b0b95b-1398-414c-9505-92c35f0bfe31",
+  "name": "AskNews",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09736939-3395-40a5-b1de-a4f918fb288c",
+          "required": false,
+          "dataType": "@business",
+          "name": "business",
+          "value": "$business",
+          "isList": false
+        },
+        {
+          "id": "10380cba-b37a-4159-a4cc-63422b282435",
+          "required": false,
+          "dataType": "@fashion",
+          "name": "fashion",
+          "value": "$fashion",
+          "isList": false
+        },
+        {
+          "id": "86954c89-eaab-4180-a7ba-50245de16e16",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "e3d8a8a7-8028-44b5-9f41-a8b0a120dfa6",
+          "required": false,
+          "dataType": "@sports",
+          "name": "sports",
+          "value": "$sports",
+          "isList": false
+        },
+        {
+          "id": "665ef7ee-93c2-4ae2-b3aa-60737f03b73e",
+          "required": false,
+          "dataType": "@newsdetails",
+          "name": "newsdetails",
+          "value": "$newsdetails",
+          "isList": false
+        },
+        {
+          "id": "d0ae38b0-fbf2-4d6d-9084-68fb3127b248",
+          "dataType": "@politics",
+          "name": "politics",
+          "value": "$politics",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

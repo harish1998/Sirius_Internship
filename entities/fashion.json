@@ -1,0 +1,9 @@
+{
+  "id": "9c93768e-84ad-4bda-a48b-24422f7d5fd9",
+  "name": "fashion",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

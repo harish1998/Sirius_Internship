@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8fdfc37d-b1c2-4a6a-8182-d5d2c280653b",
+    "data": [
+      {
+        "text": "Not correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e59f6a3e-45f7-46ea-8c6f-7a39e5f6594a",
+    "data": [
+      {
+        "text": "That\u0027s not correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc80c530-fc92-4bd3-8006-8c3db55a6197",
+    "data": [
+      {
+        "text": "Wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35388444-635f-488b-a7fc-038b1b700234",
+    "data": [
+      {
+        "text": "No, that wrong !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

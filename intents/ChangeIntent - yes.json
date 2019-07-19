@@ -1,0 +1,33 @@
+{
+  "id": "8557b406-afb0-4c1d-865b-86a19851ada8",
+  "parentId": "8963b4c6-539c-4946-9eef-995b10873a48",
+  "rootParentId": "8963b4c6-539c-4946-9eef-995b10873a48",
+  "name": "ChangeIntent - yes",
+  "auto": true,
+  "contexts": [
+    "ChangeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ChangeIntent.ChangeIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What to you want me to change it to ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

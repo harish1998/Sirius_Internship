@@ -1,0 +1,33 @@
+{
+  "id": "41a9c899-3e0a-48ec-b875-0d8f32ac2c3f",
+  "parentId": "b111c3d3-2e88-446d-b21f-83eca0a7a354",
+  "rootParentId": "b111c3d3-2e88-446d-b21f-83eca0a7a354",
+  "name": "CorrectIntent - yes",
+  "auto": true,
+  "contexts": [
+    "CorrectIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CorrectIntent.CorrectIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What\u0027s the right answer for that though ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "4457d431-7bb0-46fb-a817-e6b5f41576f3",
+  "name": "newsdetails",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

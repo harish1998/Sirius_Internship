@@ -1,0 +1,125 @@
+{
+  "id": "77ea4563-9527-44dc-b915-9ec96584b793",
+  "name": "Order.Pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.pizza",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c0a5343-b907-4a4e-8431-0ad75bbe2679",
+          "required": true,
+          "dataType": "@Size",
+          "name": "Size",
+          "value": "$Size",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Right!Which size pizza would you like to have ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "bf596d5d-5cab-4a92-8b9e-1b3e29697a30",
+          "required": true,
+          "dataType": "@Crust",
+          "name": "Crust",
+          "value": "$Crust",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Okay! What crust would you like to have ?\n1.Flatbread\n2.Sicilian\n3.Chicago"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9d328b74-8b18-46eb-bdd1-762afcb048f9",
+          "required": true,
+          "dataType": "@Type",
+          "name": "Type",
+          "value": "$Type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Awesome! What type of pizza you wish to have ?\nVeg\nNon Veg"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3c285b16-7f00-4807-a124-8bd218862874",
+          "required": true,
+          "dataType": "@Sauce",
+          "name": "Sauce",
+          "value": "$Sauce",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Exciting! What sauce you like to have ?\n1.Tomato\n2.Chilli"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "aad8bd06-cdc0-4c20-abc0-00398323c5dc",
+          "required": true,
+          "dataType": "@Toppings",
+          "name": "Toppings",
+          "value": "$Toppings",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Super! What toppings would you like to have ?\n1.Cheese\n2.Onion\n3.Mushroom\n4.Olive"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "935fecfb-24b2-4b84-b853-740f05a9a8ff",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "Address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok Cool!. Which address you want the pizza to deliver ?"
+            }
+          ]
+        },
+        {
+          "id": "cb2684e0-3693-4c87-b038-528bff6ad7a2",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "Time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Finally! What time you want the pizza ?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

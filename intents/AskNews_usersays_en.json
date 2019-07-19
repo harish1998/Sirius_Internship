@@ -1,0 +1,276 @@
+[
+  {
+    "id": "55919d98-78db-45f6-a715-519229ee3781",
+    "data": [
+      {
+        "text": "What is the present communication around?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c8cf021-1adc-4d93-964a-389f6bd4cfc6",
+    "data": [
+      {
+        "text": "Could you please tell me the news of the recent times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "483aa5e8-c1e9-43d0-a6bc-94070e83129d",
+    "data": [
+      {
+        "text": "Please keep me updated if any news arises..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2141ba52-2e05-4a37-87cd-57a41ad6c67f",
+    "data": [
+      {
+        "text": "What are the recent whereabouts around ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4c3b02b-940f-43cd-b38d-4f6b0053448d",
+    "data": [
+      {
+        "text": "How much updated are you to the latest happenings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83516ad0-7f86-4089-a6cb-f23fd233760d",
+    "data": [
+      {
+        "text": "What is the latest updates around the world?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a57a0cd7-3112-490f-b410-2371c22feaee",
+    "data": [
+      {
+        "text": "Please let us know if you have information on any issue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a96d68cd-c629-4663-8c9e-1525b7f74ad6",
+    "data": [
+      {
+        "text": "May I know if there is any updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50f7764d-41c4-4758-9809-4630be75d06c",
+    "data": [
+      {
+        "text": "Can you tell me the details about the report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f70fc6a-6eaf-42eb-8ff9-a730aa8e58b1",
+    "data": [
+      {
+        "text": "What is the statement about the issue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0e2e0e8-906d-45ff-8d6b-d7eae2e208fc",
+    "data": [
+      {
+        "text": "Could you tell me the entire ",
+        "userDefined": false
+      },
+      {
+        "text": "story",
+        "alias": "newsdetails",
+        "meta": "@newsdetails",
+        "userDefined": false
+      },
+      {
+        "text": " of what happened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4618abfe-6169-42e9-9a6a-03a75fa8adde",
+    "data": [
+      {
+        "text": "show me the news about ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51e8febb-ef61-4a67-90c2-6f28136aefe9",
+    "data": [
+      {
+        "text": "Can you tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterdays",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " headlines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed726d3b-a5e7-4972-a294-fdcba3a22984",
+    "data": [
+      {
+        "text": "What is the top ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "newsdetails",
+        "meta": "@newsdetails",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cb1c120-fff0-4679-9432-983e942ed437",
+    "data": [
+      {
+        "text": "Could you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "breakingnews",
+        "alias": "newsdetails",
+        "meta": "@newsdetails",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e584fe7b-9b1e-49f5-8f0b-cadc582b2f39",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "political",
+        "alias": "politics",
+        "meta": "@politics",
+        "userDefined": true
+      },
+      {
+        "text": " news?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1866466-2659-4496-837a-4c01d2d9cace",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "Fashion",
+        "alias": "fashion",
+        "meta": "@fashion",
+        "userDefined": false
+      },
+      {
+        "text": " updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22bb588c-b1c6-4f1d-aeff-b839e9d776c3",
+    "data": [
+      {
+        "text": "What are the recent ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "alias": "business",
+        "meta": "@business",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
